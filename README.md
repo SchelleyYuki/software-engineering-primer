@@ -1,10 +1,10 @@
 # 编程学习资源
 本文汇总了SchelleyYuki精选的优质学习资源以及独家折扣福利。
 
-## Udacity折扣：所有课程60% OFF
+## Udacity折扣：所有课程75% OFF
 链接：<a href="https://schelleyyuki.com/udacity-discount" target="_blank">https://schelleyyuki.com/udacity-discount</a>
 
-页面里的所有Udacity课程都自动获得4折优惠。
+页面里的所有Udacity课程都自动获得二五折优惠。
 ## 算法面试复习资源
 链接：<a href="https://schelleyyuki.com/learn-algo" target="_blank">https://schelleyyuki.com/learn-algo</a>
 
