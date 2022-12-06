@@ -1,13 +1,11 @@
 # 编程学习资源
 本文汇总了SchelleyYuki精选的优质学习资源以及独家折扣福利。
 
-
-
 ## Java学习资源
 链接：<a href="https://schelleyyuki.com/learn-java" target="_blank">https://schelleyyuki.com/learn-java</a>
 
 ## 算法学习资源
-从系统性地学习算法，到算法面试复习
+从系统性地学习算法，到算法面试复习，到模拟面试
 
 链接：<a href="https://schelleyyuki.com/learn-algo" target="_blank">https://schelleyyuki.com/learn-algo</a>
 
