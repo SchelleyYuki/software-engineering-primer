@@ -19,6 +19,7 @@
 - [编程入门该学哪门语言? 如何加强编程基本功?](https://youtu.be/6B9Olpve4n0)
 - [程序员必须掌握哪些算法? 如何系统性地学习算法?](https://youtu.be/ZQhMW50wmwg)
 - [算法教程：动态规划，分治法，贪心算法的联系是什么?](https://youtu.be/wy_8sINTogw)
+- [System Design入门指南：5个必须掌握的知识点](https://youtu.be/8TE2DvpKxvA)
 - [前端, 后端, 全栈分别是做什么的? ](https://youtu.be/5wP0KuBIrZo)
 - [解密初学Java的常见误区](https://youtu.be/IFDjrK2y5s4)
 - [在美国读CS如何找实习？如何备战才能拿到offer？](https://youtu.be/3ydAhAz7ZeI)
