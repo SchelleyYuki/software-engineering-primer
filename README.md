@@ -17,6 +17,7 @@
 
 ## 我的编程相关影片(YouTube)
 - [编程入门该学哪门语言? 如何加强编程基本功?](https://youtu.be/6B9Olpve4n0)
+- [为什么Python比C语言更适合入门?](https://youtu.be/2StGPegYHFM)
 - [程序员必须掌握哪些算法? 如何系统性地学习算法?](https://youtu.be/ZQhMW50wmwg)
 - [算法教程：动态规划，分治法，贪心算法的联系是什么?](https://youtu.be/wy_8sINTogw)
 - [System Design入门指南：5个必须掌握的知识点](https://youtu.be/8TE2DvpKxvA)
