@@ -12,6 +12,9 @@
 ## 系统设计学习资源
 链接：<a href="https://schelleyyuki.com/learn-system-design" target="_blank">https://schelleyyuki.com/learn-system-design</a>
 
+## ByteByteGo折扣
+链接: <a href="https://schelleyyuki.com/bytebytego-discount" target="_blank">https://schelleyyuki.com/bytebytego-discount</a>
+
 ## Udacity折扣
 链接：<a href="https://schelleyyuki.com/udacity-discount" target="_blank">https://schelleyyuki.com/udacity-discount</a>
 
